@@ -1,0 +1,15 @@
+C:\Users\kblambov20\RiderProjects\Online-Store-Management-System-using-OOP-in-CSharp\OSMSUOIC\bin\Debug\net8.0\OSMSUOIC.exe
+C:\Users\kblambov20\RiderProjects\Online-Store-Management-System-using-OOP-in-CSharp\OSMSUOIC\bin\Debug\net8.0\OSMSUOIC.deps.json
+C:\Users\kblambov20\RiderProjects\Online-Store-Management-System-using-OOP-in-CSharp\OSMSUOIC\bin\Debug\net8.0\OSMSUOIC.runtimeconfig.json
+C:\Users\kblambov20\RiderProjects\Online-Store-Management-System-using-OOP-in-CSharp\OSMSUOIC\bin\Debug\net8.0\OSMSUOIC.dll
+C:\Users\kblambov20\RiderProjects\Online-Store-Management-System-using-OOP-in-CSharp\OSMSUOIC\bin\Debug\net8.0\OSMSUOIC.pdb
+C:\Users\kblambov20\RiderProjects\Online-Store-Management-System-using-OOP-in-CSharp\OSMSUOIC\obj\Debug\net8.0\OSMSUOIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kblambov20\RiderProjects\Online-Store-Management-System-using-OOP-in-CSharp\OSMSUOIC\obj\Debug\net8.0\OSMSUOIC.AssemblyInfoInputs.cache
+C:\Users\kblambov20\RiderProjects\Online-Store-Management-System-using-OOP-in-CSharp\OSMSUOIC\obj\Debug\net8.0\OSMSUOIC.AssemblyInfo.cs
+C:\Users\kblambov20\RiderProjects\Online-Store-Management-System-using-OOP-in-CSharp\OSMSUOIC\obj\Debug\net8.0\OSMSUOIC.csproj.CoreCompileInputs.cache
+C:\Users\kblambov20\RiderProjects\Online-Store-Management-System-using-OOP-in-CSharp\OSMSUOIC\obj\Debug\net8.0\OSMSUOIC.sourcelink.json
+C:\Users\kblambov20\RiderProjects\Online-Store-Management-System-using-OOP-in-CSharp\OSMSUOIC\obj\Debug\net8.0\OSMSUOIC.dll
+C:\Users\kblambov20\RiderProjects\Online-Store-Management-System-using-OOP-in-CSharp\OSMSUOIC\obj\Debug\net8.0\refint\OSMSUOIC.dll
+C:\Users\kblambov20\RiderProjects\Online-Store-Management-System-using-OOP-in-CSharp\OSMSUOIC\obj\Debug\net8.0\OSMSUOIC.pdb
+C:\Users\kblambov20\RiderProjects\Online-Store-Management-System-using-OOP-in-CSharp\OSMSUOIC\obj\Debug\net8.0\OSMSUOIC.genruntimeconfig.cache
+C:\Users\kblambov20\RiderProjects\Online-Store-Management-System-using-OOP-in-CSharp\OSMSUOIC\obj\Debug\net8.0\ref\OSMSUOIC.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OSMSUOIC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca0fb4ff8b834690a526bc27cd81ab29b6b80638")]
 [assembly: System.Reflection.AssemblyProductAttribute("OSMSUOIC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OSMSUOIC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
